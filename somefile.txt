@@ -1,1 +1,6 @@
 Hello, this is some random file with some random things 
+
+This is some new changes in the somefile.txt file 
+
+
+This is some new change 
